@@ -1,0 +1,16 @@
+
+body {
+    margin: 0px;
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  #map{
+    height: 600px;
+    width: 100%;
+  }
+  
+  #root{
+    height: 100%
+  }
+  
